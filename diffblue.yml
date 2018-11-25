@@ -1,8 +1,6 @@
 # Tested on Deeptest release 1.10.0
 cbmcArguments:
-  cover-function-only: false
   depth: false
-  do-not-test-methods-with-access: [ private ]
   java-generate-no-comments: true
 phases:
 -
